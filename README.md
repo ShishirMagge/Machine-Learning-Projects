@@ -1,4 +1,4 @@
-# trial1
+# Diabetes Prediction
  This is my first repository in the GitHub. Let's see how it goes.
 
 The target of this project is to predict if a woman is diabetic or not based on her health report.
